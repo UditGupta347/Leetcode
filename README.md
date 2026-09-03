@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UditGupta347/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/UditGupta347/Leetcode/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UditGupta347/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/UditGupta347/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UditGupta347/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/UditGupta347/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UditGupta347/Leetcode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UditGupta347/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UditGupta347/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
